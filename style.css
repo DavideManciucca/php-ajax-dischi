@@ -1,0 +1,15 @@
+.dm-container{
+  display: flex;
+  flex-wrap: wrap;
+ justify-content: center;
+ background-color: #1e2d3b;
+ min-height: 100%;
+}.dm-wrapper{
+  min-height: 100vh;
+ background-color: #1e2d3b;
+}
+.poster img{
+  height: 150px;
+  width: 150px;
+  margin-bottom:8px ;
+}
